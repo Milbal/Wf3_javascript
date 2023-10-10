@@ -39,7 +39,7 @@ function additionner(a, b) {
   //EXERCICE 4
   //Créez un tableau contenant trois noms, puis bouclez sur le tableau pour afficher chaque nom dans la console.
   
-var noms = ["Alice", "Bob", "Charlie"];
+var noms = ["Méline", "Mia", "joe"];
 
 // Boucler sur le tableau et afficher chaque nom dans la console
 for (var i = 0; i < noms.length; i++) {
